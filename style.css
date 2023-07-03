@@ -107,28 +107,19 @@
 
 .bookkeeping {
     background-image: url(./img/general_bookeeping.jpg);
- 
- }
-
- .Payroll {
+}
+.payroll {
     background-image: url(./img/payroll.jpg);
  }
-
-
- .Vat{
+.vat {
     background-image: url(./img/vat.jpg);
  }
-.tax return {
-
-    background-image: url(./img/tax_return.jpg);
+.tax {
+    background-image: url(./img/tax.jpg);
 }
-.cis and utr{
+.cis {
     background-image: url(./img/cis_utr.jpg);
 }
  
-
-
-
-
 
 /** End Service **/
