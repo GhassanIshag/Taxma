@@ -3,9 +3,13 @@
 ## Introduction
 
 Welcome to Project Taxma! This project aims to simplify bookkeeping and tax services. It provides comprehensive services for individuals and business owners to manage their finances efficiently.
-##Technologies Used
+
+## Technologies Used
+
 Languages Used
+
 HTML5
+
 CSS3
 
 ## Frameworks, Libraries & Programs Used
