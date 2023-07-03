@@ -108,15 +108,19 @@
 .bookkeeping {
     background-image: url(./img/general_bookeeping.jpg);
 }
+
 .payroll {
     background-image: url(./img/payroll.jpg);
- }
+}
+
 .vat {
     background-image: url(./img/vat.jpg);
- }
+}
+
 .tax {
     background-image: url(./img/tax.jpg);
 }
+
 .cis {
     background-image: url(./img/cis_utr.jpg);
 }
