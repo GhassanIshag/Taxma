@@ -29,10 +29,7 @@
 
 @media only screen and (max-width: 575px) {
     .home-call-to-action {
-        background: url('./img/accountant.jpg') no-repeat center center;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
+        background: url('./img/all.jpg') no-repeat center center;
         background-size: cover;
     }
 
@@ -40,7 +37,6 @@
         content: '';
         position: absolute;
         display: block;
-        z-index: -1;
         top: 0;
         left: 0;
         width: 100%;
@@ -50,7 +46,7 @@
     }
 }
 
-/** Start Home Page **/
+/** End Home Page **/
 
 
 
@@ -69,11 +65,7 @@
     color: #fff;
     transform: scale(0.99);
     transition: all 0.5s;
-    -webkit-transition: all 0.5s;
     background: url('./img/accountant.jpg') #ccc no-repeat center center; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
 }
 
@@ -92,17 +84,15 @@
     z-index: 1;
     color: #000;
     will-change: transform;
-    -webkit-transform: scale(1.02);
     transform: scale(1.02);
     transition: all 1.4s;
-    -webkit-transition: all 1.4s;
     box-shadow: 0 1rem 3rem rgba(255,255,255,.75);
 }
 
 .service-box:hover::after {
     background-color: rgba(255,255,255, 0.7);
     transition: all .7s;
-    -webkit-transition: all .7s;
+    
 }
 
 .bookkeeping {
@@ -118,12 +108,11 @@
 }
 
 .tax {
-    background-image: url(./img/tax.jpg);
+    background-image: url(./img/tax_return.jpg);
 }
 
 .cis {
     background-image: url(./img/cis_utr.jpg);
 }
  
-
 /** End Service **/
