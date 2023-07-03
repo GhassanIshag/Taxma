@@ -6,7 +6,6 @@ Welcome to Project Taxma! This project aims to simplify bookkeeping and tax serv
 
 ## Technologies Used
 
-Languages Used
 
 HTML5
 
