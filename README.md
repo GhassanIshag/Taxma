@@ -12,16 +12,16 @@ HTML5
 CSS3
 
 ## Frameworks, Libraries & Programs Used
-Bootstrap 5:
+1.Bootstrap 5:
 Bootstrap was used to assist with the responsiveness and styling of the website.
 
-1.Font Awesome
+2.Font Awesome
 Font Awesome was used to add icons 
 
-2.Git
+3.Git
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
-3.GitHub:
+4.GitHub:
 GitHub is used to store the projects code after being pushed from Git.
 
 ## Structure
