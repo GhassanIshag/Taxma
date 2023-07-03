@@ -3,6 +3,23 @@
 ## Introduction
 
 Welcome to Project Taxma! This project aims to simplify bookkeeping and tax services. It provides comprehensive services for individuals and business owners to manage their finances efficiently.
+##Technologies Used
+Languages Used
+HTML5
+CSS3
+
+## Frameworks, Libraries & Programs Used
+Bootstrap 5:
+Bootstrap was used to assist with the responsiveness and styling of the website.
+
+1.Font Awesome
+Font Awesome was used to add icons 
+
+2.Git
+Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+3.GitHub:
+GitHub is used to store the projects code after being pushed from Git.
 
 ## Structure
 
@@ -66,3 +83,14 @@ The CSS classes are defined in the `style.css` file and are applied to the respe
   - This class is applied to the service boxes on the services page.
   - Flexbox properties are used to vertically center the content within each box and create a visually pleasing layout.
   - The boxes have a background image set, which is scaled and positioned using background properties.
+  - 
+  ## Testing
+ The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+W3C Markup Validator 
+W3C CSS Validator 
+
+
+
+
+
