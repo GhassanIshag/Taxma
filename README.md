@@ -85,9 +85,11 @@ The CSS classes are defined in the `style.css` file and are applied to the respe
   - The boxes have a background image set, which is scaled and positioned using background properties.
   - 
   ## Testing
+  
  The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 W3C Markup Validator 
+
 W3C CSS Validator 
 
 
