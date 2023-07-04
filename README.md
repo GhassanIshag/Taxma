@@ -92,6 +92,21 @@ W3C Markup Validator
 W3C CSS Validator 
 
 
+## Credits
 
+Images came from unsplash.com
+
+Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+click to chat : contact us now, was used to connect contact us now buttun to the whatsapp number. [found here](https://faq.whatsapp.com/5913398998672934)
+
+## Content
+All content was written by the developer.
+
+
+## Acknowledgements
+My Mentor for continuous helpful feedback.
+
+Tutor support at Code Institute for their support.
 
 
