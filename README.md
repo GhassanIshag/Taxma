@@ -162,12 +162,11 @@ W3C Markup Validator
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/cssval.png)
 W3C CSS Validator
 
-## Using Lighthouse
+### Using Lighthouse
 When ckecking through lighthouse for desktop and mobile devices I got these results:
 
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/desktop.png)
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/mobile.png)
-
 
 
 ## Deployment
