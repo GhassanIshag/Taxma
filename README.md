@@ -2,7 +2,6 @@
 The purpose of the Taxma website project is to provide a comprehensive online platform specializing in financial services, with a primary focus on offering efficient and accurate payroll and bookkeeping services. This project aims to streamline and simplify financial management for individuals and businesses of all sizes.
 
 
-
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/header.jpg)
 
 View the live project [here](https://ghassanishag.github.io/taxma/)
@@ -31,6 +30,7 @@ View the live project [here](https://ghassanishag.github.io/taxma/)
 
 - Tablet Wireframe using penpot:
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/mobile.svg)
+
 ## Features
 - ### Header
 The header at the top of each page contains Taxma logo for their website and a navigation bar links to their Home page, Services page, About page and their Contact page. The navigation bar can extend or collapse, depending on the screen size.
@@ -45,7 +45,7 @@ It has a big image presenting collaboration. Additionally, there is a button tha
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/home.png)
 
 - ### Services Page
-This page has a prief description about all services that provided by Taxma , each of the services is included in a box with an image that 
+This page has a brief description about all services that provided by Taxma , each of the services is included in a box with a semi-transparent grey overlay dev element  that changes to semi white  colour upon hover over the element and text changes to black.
 
 
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/services.png)
@@ -57,15 +57,19 @@ This page has a brief introduction about Taxma
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/aboutus.png)
 
 - ### Contact Page
-This page features a user-friendly contact form containing essential input fields: name, phone number, email address, and a message text area. Completing these fields is mandatory for users intending to get in touch with Taxma. By providing these details, users can seamlessly send their messages and inquiries.
-
-
+This page include the contact details and address map for the location of Taxma.
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/contactus.png)
 
 
 ## Future Features
 - User should receive an email after sending a message.
 
+## Typography and color scheme
+### Colour Scheme
+The primary color scheme employs either white (as the background) and black (for text). In addition, the website incorporates blue consistently across various elements. This vibrant hue appears in spans, background hover links, buttons.
+
+### Typography
+The website is formatted with the Roboto font. As a contingency, Sans Sherif was employed as the substitue font to be employed if designated fonts fail to import correctly on the website for any reason.
 
 ## Technology
 - ### Languages Used
@@ -85,14 +89,6 @@ This page features a user-friendly contact form containing essential input field
 3.	If I would like to gain more information of Taxma services, The About page provides a clear information about Taxma services.
 
 
-
-## Acknowledgements
-1.	Tutors and community members at Code Institute.
-2.	My Mentor Guidance at Code Institute Okwudiri Okoro
-
-
-
-
 ## Structure
 
 The main files and directories are as follows:
@@ -101,9 +97,9 @@ The main files and directories are as follows:
 - `about.html`: The HTML file containing the "About Us" page content.
 - `contact.html`: The HTML file containing the "Contact" page content.
 - `services.html`: The HTML file containing the "Services" page content.
-- `style.css`: The CSS file that defines the styles and layout for the entire website.
-- `img/`: Directory containing images used in the project.
-
+- `assets/`: Directory containing two subdirectories (css and img).
+- `docs/`: Directory containing images.
+  
 ## Files
 
 ### index.html
@@ -126,9 +122,6 @@ The HTML file containing the "Services" page content. It showcases the different
 
 The CSS file that defines the styles and layout for the entire website. It includes styles for the header, navigation bar, sections, images, and other elements.
 
-### img/
-
-This directory contains the images used in the project, such as the logo and hero image.
 
 ## CSS Classes
 
@@ -158,16 +151,43 @@ The CSS classes are defined in the `style.css` file and are applied to the respe
   
   ## Testing
   
- The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-
+  ## Code Validation
+   The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+    - HTML
+   1. The index file was validated by HTML Validator and no errors or warnings were found.
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/index.png)
 W3C Markup Validator 
+    
+- CSS
+   2. The style sheet was validated by using CSS validater
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/cssval.png)
+W3C CSS Validator
 
-W3C CSS Validator 
+## Using Lighthouse
+When ckecking through lighthouse for desktop and mobile devices I got these results:
 
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/desktop.png)
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/mobile.png)
+
+
+
+## Deployment
+- Via github pages:
+To deploy the page via github pges follow these steps:
+
+1. On GitHub, navigate to the repository https://github.com/GhassanIshag/taxma/
+2. Click Settings.
+3. In the "Code and automation" section of the sidebar, click Pages.
+4. Under "Build and deployment":
+5. under "Source", select Deploy from a branch.
+6. Under "Branch", Main Branch
+7. Click "Save".
+8. Refresh the page and shortly the live link of the website will appeare.
+9. The live link https://github.com/GhassanIshag/taxma/
 
 ## Credits
 
-Images came from unsplash.com
+Images came from [unsplash.com](https://www.unsplash.com/)
 
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
@@ -176,10 +196,8 @@ click to chat : contact us now, was used to connect contact us now buttun to the
 ## Content
 All content was written by the developer.
 
-
 ## Acknowledgements
-My Mentor for continuous helpful feedback.
-
-Tutor support at Code Institute for their support.
+1.	Tutors and community members at Code Institute.
+2.	My Mentor Guidance at Code Institute Okwudiri Okoro
 
 
