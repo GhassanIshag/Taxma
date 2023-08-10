@@ -28,30 +28,31 @@ View the live project [here](https://ghassanishag.github.io/taxma/)
 - Tablet Wireframe using Penpot:
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/tablet.svg)
 
-- Tablet Wireframe using penpot:
+- Mobile Wireframe using penpot:
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/mobile.svg)
 
 ## Features
 - ### Header
-The header at the top of each page contains Taxma logo for their website and a navigation bar links to their Home page, Services page, About page and their Contact page. The navigation bar can extend or collapse, depending on the screen size.
+The header at the top of each page contains Taxma logo for and navigation bar links to the Home page, Services page, About page and Contact page. The navigation bar can extend or collapse, depending on the screen size.
 
 - ### Footer
-The footer at the bottom of all the pages contains a navigation bar links to their Home page, Services page, About page and their Contact page. Also, It contains all rights reserved phrase.
+The footer at the bottom of all the pages contains a navigation bar links to the Home page, Services page, About page and the Contact page. Also, It contains all rights reserved phrase.
 
 - ### Home Page
-It has a big image presenting collaboration. Additionally, there is a button that takes the user directly to  Taxma services page.
+It has a big image presenting collaboration. Additionally, there is a call to action button that takes the user directly to Taxma services page.
 
 
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/home.png)
 
 - ### Services Page
 This page has a brief description about all services that provided by Taxma , each of the services is included in a box with a semi-transparent grey overlay dev element  that changes to semi white  colour upon hover over the element and text changes to black.
+Each service box has a call to action button that eneble the user to chat to Taxma team based on the selected service.
 
 
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/services.png)
 
 - ### About Page
-This page has a brief introduction about Taxma 
+This page has a brief introduction about Taxma. 
 
 
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/aboutus.png)
@@ -79,7 +80,7 @@ The website is formatted with the Roboto font. As a contingency, Sans Sherif was
 -	Google Fonts: Google fonts were linked into the html files throughout the project.
 -	Font Awesome 6.2.1: Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 -	GitHub: GitHub is used to store the projects code after being pushed from Git.
-- Canvas canvas was used to create the logo.
+- Canva: canva was used to create the logo.
 -	Penpot:  was used to create the wireframes during the design process.
 
 ## User Story
@@ -170,7 +171,7 @@ When ckecking through lighthouse for desktop and mobile devices I got these resu
 
 
 ## Deployment
-- Via github pages:
+
 To deploy the page via github pges follow these steps:
 
 1. On GitHub, navigate to the repository https://github.com/GhassanIshag/taxma/
