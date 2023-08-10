@@ -41,14 +41,27 @@ The footer at the bottom of all the pages contains a navigation bar links to the
 - ### Home Page
 It has a big image presenting collaboration. Additionally, there is a button that takes the user directly to  Taxma services page.
 
+
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/home.png)
+
 - ### Services Page
 This page has a prief description about all services that provided by Taxma , each of the services is included in a box with an image that 
+
+
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/services.png)
 
 - ### About Page
 This page has a brief introduction about Taxma 
 
+
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/aboutus.png)
+
 - ### Contact Page
 This page features a user-friendly contact form containing essential input fields: name, phone number, email address, and a message text area. Completing these fields is mandatory for users intending to get in touch with Taxma. By providing these details, users can seamlessly send their messages and inquiries.
+
+
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/contactus.png)
+
 
 ## Future Features
 - User should receive an email after sending a message.
