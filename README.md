@@ -60,7 +60,6 @@ This page has a brief introduction about Taxma
 This page include the contact details and address map for the location of Taxma.
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/contactus.png)
 
-
 ## Future Features
 - User should receive an email after sending a message.
 
@@ -87,7 +86,6 @@ The website is formatted with the Roboto font. As a contingency, Sans Sherif was
 1.	If I would like to contact Taxma for business enquiries, then I should look for the contact page which is easily to be navigated whether from the header in each page, from the footer or from the available contact us buttons in the services page and once clicking, the I can send my message directly to the available WhatsApp number connected to each button.
 2.	If I would like to understand the services provided by Taxma services website, The services page has a detailed information about their services with details.
 3.	If I would like to gain more information of Taxma services, The About page provides a clear information about Taxma services.
-
 
 ## Structure
 
@@ -148,10 +146,11 @@ The CSS classes are defined in the `style.css` file and are applied to the respe
   - This class is applied to the service boxes on the services page.
   - Flexbox properties are used to vertically center the content within each box and create a visually pleasing layout.
   - The boxes have a background image set, which is scaled and positioned using background properties.
+
   
-  ## Testing
+## Testing
   
-  ## Code Validation
+  ### Code Validation
    The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
     - HTML
    1. The index file was validated by HTML Validator and no errors or warnings were found.
