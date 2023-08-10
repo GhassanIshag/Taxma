@@ -5,7 +5,7 @@ The purpose of the Taxma website project is to provide a comprehensive online pl
 
 ![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/header.jpg)
 
-[View the live project here](taxma.uk)
+View the live project [here](https://ghassanishag.github.io/taxma/)
 
 ## Site Owner's Goals
 - Simplifying Financial Management: The site owner's primary goal is to simplify the process of managing finances for their clients. They aim to make bookkeeping, payroll, and other financial tasks easy and accessible even for individuals without a finance background.
