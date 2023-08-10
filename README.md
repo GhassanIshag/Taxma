@@ -23,9 +23,14 @@ The purpose of the Taxma website project is to provide a comprehensive online pl
 
 ## UX Design
 ## Wireframes
+- Desktop Wireframe using Penpot:
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/desktop.svg)
 
+- Tablet Wireframe using Penpot:
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/tablet.svg)
 
-
+- Tablet Wireframe using penpot:
+![demo](https://raw.githubusercontent.com/GhassanIshag/taxma/main/docs/mobile.svg)
 ## Features
 - ### Header
 The header at the top of each page contains Taxma logo for their website and a navigation bar links to their Home page, Services page, About page and their Contact page. The navigation bar can extend or collapse, depending on the screen size.
